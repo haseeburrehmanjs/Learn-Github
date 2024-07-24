@@ -11,3 +11,12 @@ let userData = {
 }
 
 console.log(userData['emailId']);
+
+
+let employee = {
+    employeeName : 'aktar jawad',
+    employeeSallary : 500000,
+    isLoggedIn : false
+}
+
+console.log(employee);
