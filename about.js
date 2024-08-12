@@ -9,3 +9,12 @@ let mySelf = {
     age: 17,
     fatherName: 'kamran ahmed'
 }
+
+console.log(myEployee.employe);
+
+
+let myEployee = {
+    employe: "jawad khan",
+    eployeeSallary: 50000,
+    gamil : 'abcd@gmail.com'
+}
